@@ -1,3 +1,4 @@
 Date          Version     Name                Description/Reference
-20/09/2022    0.0         Akin Akintayo       Pulled some existing ip addresses from the current blocked policy ID 75
-20/09/2022    0.1         Akin Akintayo       Created feed on external firewall and connection successfully setup, added logo.com to test update functionality 
+20/09/2022    0.0         Akin Akintayo       Pulled some existing url addresses from the current blocked policy ID 75
+20/09/2022    0.1         Akin Akintayo       Created Domain Name feed on external firewall and connection successfully setup
+21/09/2022    1.0         Akin Akintayo       Created Fortinguard Category feed on external firewall and connection successfully setup, added logo.com to test update functionality
